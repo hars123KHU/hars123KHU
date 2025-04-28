@@ -16,8 +16,8 @@ I'm always exploring new technologies and pushing my boundaries to create better
 
 <ul>
   <li><strong>Name:</strong> Harshita</li>
-  <li><strong>Location:</strong> [Insert City, Country]</li>
-  <li><strong>Languages:</strong> JavaScript, Python, Java, C++</li>
+  <li><strong>Location:</strong> Mau, Uttar Pradesh, India</li>
+  <li><strong>Languages:</strong> JavaScript, Python, Java, C++ </li>
   <li><strong>Tools & Technologies:</strong> React, Node.js, Express.js, HTML5, CSS3, MongoDB, Git</li>
   <li><strong>Passion:</strong> Building beautiful and functional applications 🚀</li>
 </ul>
@@ -52,10 +52,10 @@ I love working with modern technologies to create stunning and responsive applic
 ## 💬 Let's Connect!
 
 <p>
-📫 <strong>Email:</strong> <a href="mailto:harshita@example.com">harshita@example.com</a> <br />
-💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/harshita" target="_blank">linkedin.com/in/harshita</a> <br />
-🌐 <strong>Portfolio:</strong> [Insert your portfolio link here] <br />
-🐦 <strong>Twitter:</strong> [Insert your Twitter link here]
+📫 <strong>Email:</strong> <a href="mailto:harshita@example.com">harshitakushwaha2005@gmail.com</a> <br />
+💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/harshita" target="_blank">www.linkedin.com/in/harshita-kushwaha-07bb31303</a> <br />
+🌐 <strong>Portfolio:</strong>https://portfolio-ng79.vercel.app/<br />
+
 </p>
 
 <br />
