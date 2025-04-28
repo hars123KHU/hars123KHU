@@ -10,12 +10,12 @@
 
 <p>
 Hey there! I'm <strong>Harshita</strong>, a passionate software developer who loves building meaningful and impactful digital experiences. <br />
-With a background in <em>[Insert your degree/program here]</em>, I specialize in <strong>frontend development</strong> and crafting seamless user interfaces. <br />
+With a background in <em>Computer Science And Engineering (Hons) and Minor in Robotics</em>, I specialize in <strong>frontend development</strong> and crafting seamless user interfaces. <br />
 I'm always exploring new technologies and pushing my boundaries to create better solutions!
 </p>
 
 <ul>
-  <li><strong>Name:</strong> Harshita</li>
+  <li><strong>Name:</strong> Harshita Kushwaha</li>
   <li><strong>Location:</strong> Mau, Uttar Pradesh, India</li>
   <li><strong>Languages:</strong> JavaScript, Python, Java, C++ </li>
   <li><strong>Tools & Technologies:</strong> React, Node.js, Express.js, HTML5, CSS3, MongoDB, Git</li>
