@@ -54,7 +54,7 @@ I love working with modern technologies to create stunning and responsive applic
 <p>
 📫 <strong>Email:</strong> <a href="mailto:harshita@example.com">harshitakushwaha2005@gmail.com</a> <br />
 💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/harshita" target="_blank">www.linkedin.com/in/harshita-kushwaha-07bb31303</a> <br />
-🌐 <strong>Portfolio:</strong>https://portfolio-ng79.vercel.app/<br />
+🌐 <strong>Portfolio:</strong>https://vercel.com/harshita-kushwahas-projects/my-portfolio/<br />
 
 </p>
 
