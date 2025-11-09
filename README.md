@@ -91,3 +91,50 @@ timeline
     2025 : 💻 Software Developer - ProdigyInfotech
     2025 : 🧠 Research Paper - RAKT AI Blood Bank System
 
+```
+<!-- ⚡ GITHUB STATS & ACTIVITY -->
+<h2 align="center">⚡ GitHub Analytics & Activity ⚡</h2>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hars123KHU&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F8D847" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hars123KHU&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F8D847" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hars123KHU&theme=react-dark&bg_color=0D1117&hide_border=true&line=FF61D2&point=F8D847&area=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<!-- 🏆 TROPHIES & ACHIEVEMENTS -->
+<h2 align="center">🏆 Achievements & Highlights 🏆</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hars123KHU&theme=dracula&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- 🐍 CONTRIBUTION SNAKE -->
+<h2 align="center">🐍 My Contribution Snake 🐍</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
+
+---
+
+<!-- ✨ QUOTE OF THE DAY -->
+<h2 align="center">✨ Quote of the Day ✨</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote of the Day" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FE9090,100:FF61D2" />
+</p>
+
+
