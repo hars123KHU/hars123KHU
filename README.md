@@ -5,11 +5,7 @@
 
 <h2 align="center">✨ AI & MERN Stack Developer | Robotics Enthusiast | Dreaming in Code 💫</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00E0FF&center=true&vCenter=true&width=600&lines=AI+%26+Full+Stack+Developer+🧠;Robotics+Minor+🤖;Turning+Ideas+into+Reality+💡;Lifelong+Learner+🌱" alt="Typing Animation" />
-</p>
 
----
 
 ### 🪩 **About Me**
 
