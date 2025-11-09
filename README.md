@@ -1,131 +1,176 @@
-<!-- 🌟 ULTIMATE INTERACTIVE, ANIMATED GITHUB README | HARSHITA KUSHWAHA -->
-
-<!-- HEADER GLOW ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=850&color=FF61A6&vCenter=true&width=850&center=true&lines=%F0%9F%92%A5+Hi+There%2C+I'm+Harshita+Kushwaha!;AI+%26+Full+Stack+Innovator;Robotics+Wizard+%E2%9A%97%EF%B8%8F+%7C+Dreamer+%F0%9F%8C%9A;Engineering+Magic+With+Code+%F0%9F%9A%80" alt="Typing SVG" />
-  <br>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="90" />
+  <a href="https://github.com/PriyankaAsthana" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=40&duration=2500&pause=1000&color=E0007A&center=true&vCenter=true&width=750&lines=Priyanka+Asthana;AI+Engineer+%7C+Fullstack+Developer;Innovating+with+MERN+%26+AI" alt="Priyanka Asthana Animated Typing Banner" width="100%" />
+  </a>
 </p>
 
-<!-- Blinking Emoji & Neon Social Bar -->
-<div align="center">
-  <a href="https://my-portfolio-harshita-kushwahas-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF61A6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/harshita-kushwaha-07bb31303"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/hars123KHU"><img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:harshitakushwaha071@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4136?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
-
----
-
-<!-- MAIN ANIMATED GIF + PROFILE QUOTE -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVqOXU4MWl5c3dudzU5ZXMwbzZhYjd2YXhmOXN2eGczZTMxbGNjaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dZX3dor3y0C0QwUuZM/giphy.gif" width="80" title="Hello World Animation" />
-  <br>
-  <b><span style="color:#FF61A6;">B.Tech (Hons)</span> | <span style="color:#5ddbff;">CSE & Robotics</span></b><br>
-  <i>⚡️ Forging the future at the <b>nexus of AI, code, and creative problem-solving.</b></i>
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=25&duration=2300&pause=1000&color=ABFF28&vCenter=true&width=650&center=true&lines=AI%2FML+Researcher;Robotics+%26+IoT+Inventor;Full+Stack+Cloud+Builder;Creator+of+Impactful+Tech;Lifelong+Learner+%F0%9F%8C%9F" alt="Tech Focus" />
+  <a href="https://github.com/PriyankaAsthana" target="_blank"><img src="https://img.shields.io/badge/GitHub-PriyankaAsthana-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" /></a>
+  &nbsp;
+  <a href="https://linkedin.com/in/priyankaasthana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
+  &nbsp;
+  <a href="mailto:priyanka.asthana@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Say%20Hello!-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Address" /></a>
+  &nbsp;
+  <a href="https://docs.google.com/document/d/1JpRiPZnSTuZ-YOUR-ACTUAL-RESUME-ID/edit?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-Grab%20a%20Copy!-F4B400?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Download" /></a>
+  <br/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-27AE60?style=for-the-badge&logo=OpenSourceInitiative&logoColor=white" alt="Internship Status" />
 </p>
 
 ---
 
-<h2 align="center">🚀 Featured Projects • <img src="https://raw.githubusercontent.com/harsh2196/harsh2196/main/assets/fireworks.gif" height="28" /></h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> &nbsp; About Me & My Journey
+</h2>
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="98%" />
-  <br><br>
-</div>
+<p align="center">
+  Hello! I'm Priyanka Asthana, a passionate <mark>AI Engineer</mark> and <mark>Fullstack Software Developer</mark>.
+  I hold a <b>BTech (Hons) in Computer Science Engineering</b> with a <b>Minor in Robotics</b>. My journey involves
+  crafting impactful, real-world solutions by blending the power of <b>MERN stack</b> with cutting-edge <b>Applied AI/ML</b>,
+  and presenting insights through creative, intuitive dashboards. Always eager to learn and build!
+</p>
 
-<table align="center" width="100%">
+---
+
+<h2 align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" width="30px"/> &nbsp; My Dynamic Tech Stack
+</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind,python,pytorch,tensorflow,git,docker,java,postman,nextjs,html,css,javascript,flask,vscode,aws,gcp" alt="Tech Stack Icons" />
+</p>
+
+<p align="center">
+  🚀 <strong>Frontend:</strong> React, Next.js, Tailwind CSS, Bootstrap, GSAP, Modern UI/UX <br/>
+  ⚙ <strong>Backend & DB:</strong> Node.js, Express.js, MongoDB, SQL, RESTful APIs <br/>
+  🧠 <strong>AI/ML & Data:</strong> Python, PyTorch, TensorFlow, scikit-learn, NLP, Computer Vision <br/>
+  💻 <strong>Core CS:</strong> Data Structures & Algorithms (DSA), OOP (Java), Operating Systems <br/>
+  ☁ <strong>DevOps & Cloud:</strong> Git, Docker, CI/CD, Basic AWS/GCP
+</p>
+
+---
+
+<h2 align="center">
+  ✨ Featured Innovations & Projects
+</h2>
+
+<table align="center">
   <tr>
-    <td align="center" width="34%">
-      
-[![RAKT — Blood Bank](https://github-readme-stats.vercel.app/api/pin/?username=hars123KHU&repo=RAKT-Blood-Bank-Management-System&theme=radical)](https://github.com/hars123KHU/RAKT-Blood-Bank-Management-System)
-<br>
-<b>MERN + GPS Real-Time Donation</b>
-<br>
-<sub>⏩ <strong>Cut donor-to-hospital lag by 30%</strong>!</sub>
-
+    <td width="50%" valign="top">
+      <h3>🩸 RAKT: Blood Bank Management System (MERN + GeoAI)</h3>
+      <p>
+        A revolutionary system designed to optimize blood donation and allocation. Features a token & GPS-based donor flow, coupled with advanced geospatial AI to *reduce allocation time by ~30%*. It ensures efficient and timely blood delivery where it's needed most.
+      </p>
+      <b>Tech Stack:</b> React, Node.js, Express, MongoDB, Turf.js (GeoAI), PyTorch
+      <br/>
+      <p align="center">
+        </p>
+      <p align="center">
+        <a href="https://github.com/PriyankaAsthana/rakt" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="RAKT GitHub Repo"/></a>
+      </p>
     </td>
-    <td align="center" width="33%">
-
-[![DiagnoseAI](https://github-readme-stats.vercel.app/api/pin/?username=hars123KHU&repo=DiagnoseAI-AI-Medical-System-&theme=radical)](https://github.com/hars123KHU/DiagnoseAI-AI-Medical-System-)
-<br>
-<b>Smart Medical Diagnosis</b>
-<br>
-<sub>🤖 AI-powered, instant health guidance</sub>
-
+    <td width="50%" valign="top">
+      <h3>🧠 DiagnoseAI: Intelligent Medical Diagnosis Assistant</h3>
+      <p>
+        An AI-powered assistant for preliminary medical diagnosis. It utilizes conversational symptom intake to provide a ranked diagnosis pipeline, ensuring modularity, safety, and user-friendly interaction. Aims to assist healthcare professionals and empower patients.
+      </p>
+      <b>Tech Stack:</b> Python, Flask, PyTorch, NLP, scikit-learn, ML
+      <br/>
+      <p align="center">
+        </p>
+      <p align="center">
+        <a href="https://github.com/PriyankaAsthana/diagnose-ai" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-Explore%20AI-181717?style=for-the-badge&logo=github&logoColor=white" alt="DiagnoseAI GitHub Repo"/></a>
+      </p>
     </td>
-    <td align="center" width="33%">
-
-[![ChatterBox](https://github-readme-stats.vercel.app/api/pin/?username=hars123KHU&repo=ChatterBox-Secure-Chat-System&theme=radical)](https://github.com/hars123KHU/ChatterBox-Secure-Chat-System)
-<br>
-<b>Real-time Secure Chat</b>
-<br>
-<sub>🔒 End-to-end encrypted intimacy</sub>
-
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>💬 ChatterBox: Secure Real-Time Chat Application</h3>
+      <p>
+        A robust, real-time chat application built on the MERN stack. Features encrypted messaging, secure user authentication, responsive UI design across devices, and live presence indicators for an engaging user experience.
+      </p>
+      <b>Tech Stack:</b> Socket.io, React, Node.js, Express, MongoDB, WebSockets
+      <br/>
+      <p align="center">
+        </p>
+      <p align="center">
+        <a href="https://github.com/PriyankaAsthana/chatterbox" target="_blank"><img src="https://img.shields.io/badge/GitHub%20Repo-See%20it%20Live!-181717?style=for-the-badge&logo=github&logoColor=white" alt="ChatterBox GitHub Repo"/></a>
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">🪐 My Tech Galaxy</h2>
+<h2 align="center">
+  📈 Professional Experience & Academic Milestones
+</h2>
+
+<ul>
+  <li>
+    <strong>Backend Developer</strong> at <a href="https://www.prodigyinfotech.com/" target="_blank">ProdigyInfotech</a>
+    <br/>
+    Spearheaded optimizations for backend queries, significantly *reducing system latency by ~30%*.
+  </li>
+  <li>
+    <strong>AI Intern</strong> at <a href="https://www.edunet.co.in/" target="_blank">Edunet</a>
+    <br/>
+    Developed innovative ML models and engaging chatbots to provide actionable insights into student performance.
+  </li>
+  <li>
+    <strong>Web Developer</strong> at <a href="https://bharatintern.com/" target="_blank">BharatIntern</a>
+    <br/>
+    Crafted efficient REST APIs and responsive web pages, achieving a remarkable *~25% faster load time* through diligent asset optimization.
+  </li>
+</ul>
+
+### 🔬 Research & Certifications
+* *RAKT: A Token + Location-Based Blood Bank Management System* — Currently, my research manuscript is under review for publication in 2025.
+* Successfully completed challenging Job Simulations from industry leaders: *JPMorgan Chase (Software Engineer), Walmart (Global Tech Internship), Accenture (Software Engineer)*.
+* Awarded certification for *CS50x* – Harvard University's Introduction to Computer Science.
+
+---
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/PriyankaAsthana/PriyankaAsthana/main/assets/github-icon.gif" width="30px"/> &nbsp; My GitHub Universe in Data
+</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,redux,tailwind,firebase,nodejs,express,html,css,mongodb,postgres,github,git,postman,docker,tensorflow,pytorch,sklearn,azure" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=hars123KHU&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PriyankaAsthana&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_border=true&icon_color=E0007A&text_color=FFFFFF&bg_color=0D1117&title_color=E0007A" width="48%" alt="Priyanka's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.demolab.com/?user=PriyankaAsthana&theme=dark&hide_border=true&stroke=000000&background=0D1117&ring=E0007A&fire=E0007A&currstreak=E0007A&sideNums=E0007A&sideLabels=FFFFFF&dates=FFFFFF" width="48%" alt="Priyanka's GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PriyankaAsthana&layout=compact&langs_count=8&theme=dark&hide_border=true&icon_color=E0007A&text_color=FFFFFF&bg_color=0D1117&title_color=E0007A" width="40%" alt="Priyanka's Top Languages" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Pulse</h2>
+<h2 align="center">
+  <img src="https://media.giphy.com/media/links/giphy.gif" width="30px"/> &nbsp; Let's Connect & Collaborate!
+</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hars123KHU&bg_color=23272e&color=FF61A6&line=49FFCE&point=E8A87C&hide_border=true&custom_title=🔥+Contribution+Graph+🔥" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=hars123KHU&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hars123KHU&theme=radical&hide_border=true" height="165" />
+  I'm always open to new opportunities, collaborations, and discussions. Feel free to reach out!
 </p>
-
----
-
-<h2 align="center">🌀 Fun Interactive Badges</h2>
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=hars123KHU&theme=radical" height="106" />
-  <img src="https://github-widgetbox.vercel.app/api/followers?username=hars123KHU&theme=radical" height="106" />
-  <img src="https://github-widgetbox.vercel.app/api/commits?username=hars123KHU&theme=radical" height="106" />
-  <img src="https://komarev.com/ghpvc/?username=hars123KHU&style=for-the-badge&color=FF61A6" alt="profile views" />
+  <a href="https://linkedin.com/in/priyankaasthana" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/PriyankaAsthana" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  </a>
+  &nbsp;
+  <a href="mailto:priyanka.asthana@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send an Email"/>
+  </a>
+  &nbsp;
+  <a href="https://portfolio.priyankaasthana.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-FF7800?style=for-the-badge&logo=github&logoColor=white" alt="Visit my Portfolio"/>
+  </a>
 </p>
-
----
-
-<h2 align="center">🌐 Let's Connect & Code Together!</h2>
 
 <p align="center">
-  <a href="mailto:harshitakushwaha071@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/harshita-kushwaha-07bb31303"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://github.com/hars123KHU"><img src="https://img.icons8.com/ios-filled/48/ffffff/github.png" alt="GitHub"/></a>
-  <a href="https://my-portfolio-harshita-kushwahas-projects.vercel.app/"><img src="https://img.icons8.com/ios/48/00C0FF/domain--v1.png" alt="Portfolio"/></a>
+  <em><a href="https://github.com/PriyankaAsthana/PriyankaAsthana/stargazers"><img src="https://img.shields.io/github/stars/PriyankaAsthana/PriyankaAsthana?style=social" alt="GitHub stars"/></a> If you found this README helpful, give it a star! 🌟</em>
 </p>
-
----
-
-<h2 align="center">💡 Random Dev Quote</h2>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="60%" />
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Engineer+by+mind,+Creator+by+heart.;Turning+ideas+into+intelligent+systems!&center=true&width=520&color=49FFCE" />
-</p>
-
-<!-- THEMED FOOTER WAVES + END -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,3,5,7,8&section=footer"/>
-</p>
-
-<!-- END OF ULTIMATE README | HARSHITA KUSHWAHA -->
 
