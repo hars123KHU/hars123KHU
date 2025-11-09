@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/PGEap9p7i7IJM/giphy.gif" width="36"/> Hey there, I'm <span style="color:#1DE9B6;">Harshita Kushwaha</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="36"></h1>
 <h3 align="center">
-  🚀 B.Tech (Hons) CSE <img src="https://media.giphy.com/media/JltOMwYmi0VrO/giphy.gif" width="32"/> | Minor in Robotics <img src="https://img.icons8.com/arcade/32/robot-2.png"/>
+  🚀 B.Tech (Hons) CSE | Minor in Robotics <img src="https://img.icons8.com/arcade/32/robot-2.png"/>
   <br>
   MERN & AI Developer <img src="https://img.icons8.com/color/32/artificial-intelligence.png"/>
 </h3>
@@ -80,78 +80,6 @@
 |:-:|---------|-------------|------|
 |🩸| [RAKT – Blood Bank](https://github.com/hars123KHU/RAKT-Blood-Bank-Management-System) | MERN-based donation workflow & live GPS tracking | ![MERN](https://img.shields.io/badge/MERN-000?style=flat-square&logo=mongodb&logoColor=white) ![Maps API](https://img.shields.io/badge/Maps_API-blue?style=flat-square) |
 |🧠| [DiagnoseAI – AI Medical Diagnosis](https://github.com/hars123KHU/DiagnoseAI-AI-Medical-System-) | Predicts possible diagnoses from user symptoms | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow) |
-|💬| [ChatterBox – Secure Chat](https://github.com/hars123KHU/ChatterBox-Secure-Chat-System) | Real-time messaging with end-to-end encryption | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white) |
-</div>
+|💬| [ChatterBox – Secure Chat](https://github.com/hars123KHU/ChatterBox-Secure-Chat-System) | Real-time messaging with end-to-end encryption
 
----
-
-## 🏆 Experience
-
-- <b>Prodigy Infotech</b> — <i>Software Developer Intern</i> <br> <span>Aug 2025 – Sep 2025</span>  
-  <sub>Optimized system performance by <b>30%</b>!</sub>
-- <b>Edunet Foundation</b> — <i>AI Intern</i> <br> <span>Feb 2025 – Mar 2025</span>  
-  <sub>Built ML models to predict student performance.</sub>
-- <b>Bharat Intern</b> — <i>Web Developer</i> <br> <span>May 2024 – Jul 2024</span>  
-  <sub>Designed dynamic, responsive pages and improved load time by <b>25%</b>.</sub>
-
----
-
-## 🎓 Education
-
-<span>🎓 <b>Ashoka Institute of Technology and Management</b> (2022–2026)</span>  
-_B.Tech (Hons) in Computer Science & Engineering_ • _Minor: Robotics_
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="mailto:harshitakushwaha071@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/harshita-kushwaha-07bb31303"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/hars123KHU"><img src="https://img.shields.io/badge/GitHub-%2312100E?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://my-portfolio-harshita-kushwahas-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/XreQmk7ETCak0/giphy.gif" width="36"> GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hars123KHU&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hars123KHU&layout=compact&theme=radical&hide_border=true" height="170"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hars123KHU&theme=radical&hide_border=true" height="170"/>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=hars123KHU&theme=radical&no-bg=true&margin-w=5"/>
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hars123KHU/hars123KHU/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-## 🛡️ Github Achievements
-
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api?username=hars123KHU" alt="Achievements" />
-</p>
-
----
-
-## ✨ Fun Quote
-
-> <img src="https://media.giphy.com/media/1kkxWqT5nvLXUPsA6c/giphy.gif" width="30" style="vertical-align:middle;"/> _“Engineer by mind, Creator by heart — turning ideas into intelligent systems.”_
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</p>
-
-**⭐️ If you like it, leave a star on [Harshita Kushwaha](https://github.com/hars123KHU)! ⭐️**
 
