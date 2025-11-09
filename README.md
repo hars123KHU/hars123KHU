@@ -1,48 +1,42 @@
-<!-- 🌟 ADVANCED & ANIMATED GITHUB README | HARSHITA KUSHWAHA -->
+<!-- 🌟 ULTIMATE INTERACTIVE, ANIMATED GITHUB README | HARSHITA KUSHWAHA -->
 
+<!-- HEADER GLOW ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu+Mono&size=36&duration=2300&pause=700&color=F77DE0&vCenter=true&width=800&lines=%F0%9F%91%8B+Hello%2C+I'm+Harshita+Kushwaha!;AI+%26+Full+Stack+Developer;Robotics+%E2%9A%97%EF%B8%8F+Automation+Innovation;Turning+Code+Into+Magic+%F0%9F%9A%80" alt="Typing SVG" />
-  <br />
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=850&color=FF61A6&vCenter=true&width=850&center=true&lines=%F0%9F%92%A5+Hi+There%2C+I'm+Harshita+Kushwaha!;AI+%26+Full+Stack+Innovator;Robotics+Wizard+%E2%9A%97%EF%B8%8F+%7C+Dreamer+%F0%9F%8C%9A;Engineering+Magic+With+Code+%F0%9F%9A%80" alt="Typing SVG" />
+  <br>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="90" />
 </p>
 
+<!-- Blinking Emoji & Neon Social Bar -->
 <div align="center">
-  <a href="https://my-portfolio-harshita-kushwahas-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-151515?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/harshita-kushwaha-07bb31303"><img src="https://img.shields.io/badge/LinkedIn-0066B2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/hars123KHU"><img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:harshitakushwaha071@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://my-portfolio-harshita-kushwahas-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF61A6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/harshita-kushwaha-07bb31303"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/hars123KHU"><img src="https://img.shields.io/badge/GitHub-151515?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:harshitakushwaha071@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4136?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 ---
 
+<!-- MAIN ANIMATED GIF + PROFILE QUOTE -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVqOXU4MWl5c3dudzU5ZXMwbzZhYjd2YXhmOXN2eGczZTMxbGNjaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dZX3dor3y0C0QwUuZM/giphy.gif" width="70" /> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanVqOXU4MWl5c3dudzU5ZXMwbzZhYjd2YXhmOXN2eGczZTMxbGNjaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dZX3dor3y0C0QwUuZM/giphy.gif" width="80" title="Hello World Animation" />
   <br>
-  <b>B.Tech (Hons) | CSE & Robotics</b><br>
-  Crafting high-impact solutions at the <b>intersection of AI, code & creativity</b>.<br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&size=24&duration=2200&pause=1000&color=F5A7EA&vCenter=true&width=600&lines=AI%2FML;Deep+Learning;Cloud+Automation;Robotics;Front-end+Design;Back-end+Logic;Innovation%2C+Always." alt="Tech Focus" />
+  <b><span style="color:#FF61A6;">B.Tech (Hons)</span> | <span style="color:#5ddbff;">CSE & Robotics</span></b><br>
+  <i>⚡️ Forging the future at the <b>nexus of AI, code, and creative problem-solving.</b></i>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&size=25&duration=2300&pause=1000&color=ABFF28&vCenter=true&width=650&center=true&lines=AI%2FML+Researcher;Robotics+%26+IoT+Inventor;Full+Stack+Cloud+Builder;Creator+of+Impactful+Tech;Lifelong+Learner+%F0%9F%8C%9F" alt="Tech Focus" />
 </p>
 
 ---
 
-<h2 align="center">✨ Interactive Universe</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,tailwind,html,css,mongodb,postgres,github,git,postman,tensorflow,pytorch,sklearn" />
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=hars123KHU&theme=radical&no-frame=true&no-bg=true&margin-w=12" alt="Trophies" />
-</p>
-
----
-
-<h2 align="center">🚀 Projects that Matter</h2>
+<h2 align="center">🚀 Featured Projects • <img src="https://raw.githubusercontent.com/harsh2196/harsh2196/main/assets/fireworks.gif" height="28" /></h2>
 
 <div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake gif" width="90%" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" width="98%" />
   <br><br>
 </div>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="34%">
       
@@ -50,16 +44,16 @@
 <br>
 <b>MERN + GPS Real-Time Donation</b>
 <br>
-<sub>⏩ Reduced donor-to-hospital time by 30%!</sub>
+<sub>⏩ <strong>Cut donor-to-hospital lag by 30%</strong>!</sub>
 
     </td>
     <td align="center" width="33%">
 
 [![DiagnoseAI](https://github-readme-stats.vercel.app/api/pin/?username=hars123KHU&repo=DiagnoseAI-AI-Medical-System-&theme=radical)](https://github.com/hars123KHU/DiagnoseAI-AI-Medical-System-)
 <br>
-<b>Medical Diagnosis Assistant</b>
+<b>Smart Medical Diagnosis</b>
 <br>
-<sub>🤖 AI-powered, instant suggestions</sub>
+<sub>🤖 AI-powered, instant health guidance</sub>
 
     </td>
     <td align="center" width="33%">
@@ -68,7 +62,7 @@
 <br>
 <b>Real-time Secure Chat</b>
 <br>
-<sub>🔒 End-to-end encrypted chats</sub>
+<sub>🔒 End-to-end encrypted intimacy</sub>
 
     </td>
   </tr>
@@ -76,29 +70,41 @@
 
 ---
 
-<h2 align="center">📈 GitHub Glance</h2>
+<h2 align="center">🪐 My Tech Galaxy</h2>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,redux,tailwind,firebase,nodejs,express,html,css,mongodb,postgres,github,git,postman,docker,tensorflow,pytorch,sklearn,azure" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=hars123KHU&theme=radical&no-frame=true&no-bg=true&margin-w=10" alt="Trophies" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=80&section=footer" />
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Pulse</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hars123KHU&bg_color=23272e&color=FF61A6&line=49FFCE&point=E8A87C&hide_border=true&custom_title=🔥+Contribution+Graph+🔥" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=hars123KHU&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hars123KHU&theme=radical&hide_border=true" height="165" />
 </p>
+
+---
+
+<h2 align="center">🌀 Fun Interactive Badges</h2>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hars123KHU&bg_color=141321&color=A0E7E5&line=FF5DA2&point=FFFFFF&hide_border=true" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=hars123KHU&theme=radical" height="106" />
+  <img src="https://github-widgetbox.vercel.app/api/followers?username=hars123KHU&theme=radical" height="106" />
+  <img src="https://github-widgetbox.vercel.app/api/commits?username=hars123KHU&theme=radical" height="106" />
+  <img src="https://komarev.com/ghpvc/?username=hars123KHU&style=for-the-badge&color=FF61A6" alt="profile views" />
 </p>
 
 ---
 
-<h2 align="center">🌀 Dynamic Widgets & Fun</h2>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=hars123KHU&theme=radical" height="92" />
-  <img src="https://github-widgetbox.vercel.app/api/followers?username=hars123KHU&theme=radical" height="92" />
-  <img src="https://github-widgetbox.vercel.app/api/commits?username=hars123KHU&theme=radical" height="92" />
-</p>
-
----
-
-<h2 align="center">🌐 Let's Connect!</h2>
+<h2 align="center">🌐 Let's Connect & Code Together!</h2>
 
 <p align="center">
   <a href="mailto:harshitakushwaha071@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail"/></a>
@@ -109,15 +115,17 @@
 
 ---
 
-<h2 align="center">💬 Quote of the Day</h2>
-
+<h2 align="center">💡 Random Dev Quote</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Engineer+by+mind%2C+Creator+by+heart.;Turning+ideas+into+intelligent+systems!&center=true&width=550&color=fc5da7" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="60%" />
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Engineer+by+mind,+Creator+by+heart.;Turning+ideas+into+intelligent+systems!&center=true&width=520&color=49FFCE" />
 </p>
 
+<!-- THEMED FOOTER WAVES + END -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,3,5,7,8&section=footer"/>
 </p>
 
-<!-- END OF ADVANCED & ANIMATED README | HARSHITA KUSHWAHA -->
+<!-- END OF ULTIMATE README | HARSHITA KUSHWAHA -->
 
